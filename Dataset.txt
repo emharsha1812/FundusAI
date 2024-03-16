@@ -1,0 +1,14 @@
+Datasets used are
+For
+1. Hypertensive Retinopathy 
+
+2. Glaucoma
+
+3. Cataract
+
+4. Age Related Macular Degeneration
+
+5. Hypertensive Retinopathy 
+
+
+6. Anemia
