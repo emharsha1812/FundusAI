@@ -10,6 +10,8 @@ Application for Disease Detection](https://www.overleaf.com/project/65a0154fdacc
 
 
 ### Hardware images
+![Smartphone Apps](https://drive.google.com/file/d/1MfW3zmx7pMzI7I9ZRFS9hzNCiUv6r6RT/view?usp=sharing)
+
 
 
 
