@@ -10,13 +10,16 @@ Application for Disease Detection](https://www.overleaf.com/project/65a0154fdacc
 
 
 ### Hardware images
+![hardware](https://github.com/emharsha1812/FundusAI/assets/77157291/f4dcfc6c-68e5-47db-b4ba-cec37479e439)
+![hardware2](https://github.com/emharsha1812/FundusAI/assets/77157291/5301d30c-1adb-4f24-a429-2c4237e8c781)
+
+
 
 
 
 
 ### Smartphone App Screenshots
 ![androidimages](https://github.com/emharsha1812/FundusAI/assets/77157291/5a766b41-2186-4b94-8452-7812d7d41a17)
-
 
 
 
